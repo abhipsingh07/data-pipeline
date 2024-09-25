@@ -1,0 +1,72 @@
+[
+    {
+        "full_name":"John Smith",
+        "job_role":"CEO",
+        "department_name":"Executive"
+    },
+    {
+        "full_name":"Sarah Goodes",
+        "job_role":"CFO",
+        "department_name":"Executive"
+    },
+    {
+        "full_name":"Wayne Ablett",
+        "job_role":"CIO",
+        "department_name":"Executive"
+    },
+    {
+        "full_name":"Michelle Carey",
+        "job_role":"HR Manager",
+        "department_name":"HR"
+    },
+    {
+        "full_name":"Chris Matthews",
+        "job_role":"Sales Manager ",
+        "department_name":"Sales"
+    },
+    {
+        "full_name":"Andrew Judd",
+        "job_role":"Development Manager",
+        "department_name":"Development"
+    },
+    {
+        "full_name":"Danielle McLeod",
+        "job_role":"Support Manager",
+        "department_name":"Support"
+    },
+    {
+        "full_name":"Matthew Swan",
+        "job_role":"HR Representative",
+        "department_name":"HR"
+    },
+    {
+        "full_name":"Stephanie Richardson",
+        "job_role":"Salesperson",
+        "department_name":"HR"
+    },
+    {
+        "full_name":"Tony Grant",
+        "job_role":"Salesperson",
+        "department_name":"Sales"
+    },
+    {
+        "full_name":"Jenna Lockett",
+        "job_role":"Front-End Developer",
+        "department_name":"Development"
+    },
+    {
+        "full_name":"Michael Dunstall",
+        "job_role":"Back-End Developer",
+        "department_name":"Development"
+    },
+    {
+        "full_name":"Jane Voss",
+        "job_role":"Back-End Developer",
+        "department_name":"Development"
+    },
+    {
+        "full_name":"Natalie Rocca",
+        "job_role":"Support",
+        "department_name":"Support"
+    }
+]

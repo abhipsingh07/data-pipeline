@@ -1,0 +1,44 @@
+full_name,job_role,department_name,employee_id,department_id,manager_id
+John Smith,CEO,Executive,,,
+Sarah Goodes,CFO,Executive,,,
+Wayne Ablett,CIO,Executive,,,
+Michelle Carey,HR Manager,HR,,,
+Chris Matthews,Sales Manager ,Sales,,,
+Andrew Judd,Development Manager,Development,,,
+Danielle McLeod,Support Manager,Support,,,
+Matthew Swan,HR Representative,HR,,,
+Stephanie Richardson,Salesperson,HR,,,
+Tony Grant,Salesperson,Sales,,,
+Jenna Lockett,Front-End Developer,Development,,,
+Michael Dunstall,Back-End Developer,Development,,,
+Jane Voss,Back-End Developer,Development,,,
+Natalie Rocca,Support,Support,,,
+John Smith,CEO,Executive,,,
+Sarah Goodes,CFO,Executive,,,
+Wayne Ablett,CIO,Executive,,,
+Michelle Carey,HR Manager,HR,,,
+Chris Matthews,Sales Manager ,Sales,,,
+Andrew Judd,Development Manager,Development,,,
+Danielle McLeod,Support Manager,Support,,,
+Matthew Swan,HR Representative,HR,,,
+Stephanie Richardson,Salesperson,HR,,,
+Tony Grant,Salesperson,Sales,,,
+Jenna Lockett,Front-End Developer,Development,,,
+Michael Dunstall,Back-End Developer,Development,,,
+Jane Voss,Back-End Developer,Development,,,
+Natalie Rocca,Support,Support,,,
+John Smith,CEO,,1.0,1.0,
+Sarah Goodes,CFO,,2.0,1.0,1.0
+Wayne Ablett,CIO,,3.0,1.0,1.0
+Michelle Carey,HR Manager,,4.0,2.0,1.0
+Chris Matthews,Sales Manager ,,5.0,3.0,2.0
+Andrew Judd,Development Manager,,6.0,4.0,3.0
+Danielle McLeod,Support Manager,,7.0,5.0,3.0
+Matthew Swan,HR Representative,,8.0,2.0,4.0
+Stephanie Richardson,Salesperson,,9.0,2.0,5.0
+Tony Grant,Salesperson,,10.0,3.0,5.0
+Jenna Lockett,Front-End Developer,,11.0,4.0,6.0
+Michael Dunstall,Back-End Developer,,12.0,4.0,6.0
+Jane Voss,Back-End Developer,,13.0,4.0,6.0
+Anthony Hird,Support,,14.0,,7.0
+Natalie Rocca,Support,,15.0,5.0,7.0
